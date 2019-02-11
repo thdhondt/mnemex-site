@@ -9,6 +9,10 @@ weight: 25
 
 URL: https://mnemex.io/api/v1/stats
 
+{{% notice warning %}}
+This routine is under maintenance!
+{{% /notice %}}
+
 ## Input
 
 | parameters | Default | Description |

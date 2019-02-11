@@ -9,6 +9,10 @@ weight: 22
 
 URL: https://mnemex.io/api/v1/symbols
 
+{{% notice warning %}}
+This routine is under maintenance!
+{{% /notice %}}
+
 ## Input
 
 | parameters | Default | Description |
