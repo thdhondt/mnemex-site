@@ -1,7 +1,7 @@
 ---
 title: "Support"
-date: 2019-02-09T20:43:17+01:00
-draft: true
+menuTitle: "Support"
+chapter: false
 weight: 12
 ---
 

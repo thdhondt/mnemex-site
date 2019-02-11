@@ -1,7 +1,7 @@
 ---
-title: "timestamp"
-menutitle: "timestamp"
-draft: true
+title: "Timestamp"
+menutitle: "Timestamp"
+chapter: False
 weight: 21
 ---
 
@@ -9,7 +9,9 @@ weight: 21
 
 URL: https://mnemex.io/api/v1/timestamp
 
-WARNING: This routine is under maintenance!
+{{% notice warning %}}
+his routine is under maintenance!
+{{% /notice %}}
 
 ## Examples
 

@@ -7,4 +7,4 @@ chapter: true
 
 # Mnemex
 
-Welcome to Mnemex!
+Welcome and Congratulations, you have just found Mnemex!

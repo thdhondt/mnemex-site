@@ -1,7 +1,7 @@
 ---
-title: "ohlcv"
-menutitle: "ohlcv"
-draft: true
+title: "Ohlcv"
+menutitle: "Ohlcv"
+chapter: false
 weight: 24
 ---
 
@@ -9,7 +9,9 @@ weight: 24
 
 URL: https://mnemex.io/api/v1/ohlcv
 
-WARNING: This routine is under maintenance!
+{{% notice warning %}}
+his routine is under maintenance!
+{{% /notice %}}
 
 ## Input
 

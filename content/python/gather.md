@@ -1,6 +1,6 @@
 ---
 title: "Gather"
-menuTitle: "gather"
+menuTitle: "Gather"
 chapter: false
 weight: 42
 ---

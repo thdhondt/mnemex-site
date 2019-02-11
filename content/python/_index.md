@@ -1,6 +1,6 @@
 ---
 title: "Python"
-menuTitle: "python"
+menuTitle: "Python"
 chapter: false
 weight: 40
 ---

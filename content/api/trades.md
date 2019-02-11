@@ -1,6 +1,6 @@
 ---
-title: "trades"
-menutitle: "trades"
+title: "Trades"
+menutitle: "Trades"
 draft: true
 weight: 23
 ---
@@ -9,7 +9,9 @@ weight: 23
 
 URL: https://mnemex.io/api/v1/trades
 
-WARNING: This routine is under maintenance!
+{{% notice warning %}}
+his routine is under maintenance!
+{{% /notice %}}
 
 ## Input
 

@@ -1,6 +1,6 @@
 ---
-title: "connect"
-menuTitle: "connect"
+title: "Connect"
+menuTitle: "Connect"
 chapter: false
 weight: 41
 ---

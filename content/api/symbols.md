@@ -1,7 +1,7 @@
 ---
-title: "symbols"
-menutitle: "symbols"
-draft: true
+title: "Symbols"
+menutitle: "Symbols"
+chapter: False
 weight: 22
 ---
 
@@ -9,7 +9,9 @@ weight: 22
 
 URL: https://mnemex.io/api/v1/symbols
 
-WARNING: This routine is under maintenance!
+{{% notice warning %}}
+his routine is under maintenance!
+{{% /notice %}}
 
 ## Input
 

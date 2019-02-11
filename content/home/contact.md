@@ -1,7 +1,7 @@
 ---
 title: "Contact"
-date: 2019-02-09T20:43:02+01:00
-draft: true
+menuTitle: "Contact"
+chapter: false
 weight: 11
 ---
 

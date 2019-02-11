@@ -1,7 +1,7 @@
 ---
-title: "statistics"
-menutitle: "statistics"
-draft: true
+title: "Statistics"
+menutitle: "Statistics"
+chapter: false
 weight: 25
 ---
 
@@ -9,7 +9,9 @@ weight: 25
 
 URL: https://mnemex.io/api/v1/stats
 
-WARNING: This routine is under maintenance!
+{{% notice warning %}}
+his routine is under maintenance!
+{{% /notice %}}
 
 ## Input
 
