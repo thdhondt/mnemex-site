@@ -1,8 +1,8 @@
 ---
-title: "connect"
-menuTitle: "connect"
+title: "Gather"
+menuTitle: "gather"
 chapter: false
-weight: 41
+weight: 42
 ---
 
 More information to come soon about how to gather historical data from Mnemex.
