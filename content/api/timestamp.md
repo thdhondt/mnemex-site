@@ -9,9 +9,7 @@ weight: 21
 
 URL: https://mnemex.io/api/v1/timestamp
 
-{{% notice warning %}}
-This routine is under maintenance!
-{{% /notice %}}
+WARNING: This routine is under maintenance!
 
 ## Examples
 

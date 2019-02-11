@@ -9,9 +9,7 @@ weight: 24
 
 URL: https://mnemex.io/api/v1/ohlcv
 
-{{% notice warning %}}
-This routine is under maintenance!
-{{% /notice %}}
+WARNING: This routine is under maintenance!
 
 ## Input
 
