@@ -1,7 +1,7 @@
 ---
 title: "Postgresql"
-date: 2019-02-09T20:31:11+01:00
-draft: true
+menutitle: "Postgresql"
+chapter: false
 weight: 31
 ---
 

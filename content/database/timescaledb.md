@@ -1,7 +1,7 @@
 ---
-title: "Timescaledb"
-date: 2019-02-09T20:31:20+01:00
-draft: true
+title: "TimescaleDB"
+menutitle: "TimescaleDB"
+chapter: false
 weight: 32
 ---
 
