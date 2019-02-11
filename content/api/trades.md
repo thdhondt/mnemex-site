@@ -1,7 +1,7 @@
 ---
 title: "Trades"
 menutitle: "Trades"
-draft: true
+chapter: false
 weight: 23
 ---
 
