@@ -2,7 +2,7 @@
 title: "Statistics"
 menutitle: "Statistics"
 chapter: false
-weight: 24
+weight: 25
 ---
 
 ## Information
