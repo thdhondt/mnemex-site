@@ -9,16 +9,18 @@ weight: 21
 
 URL: https://mnemex.io/api/v1/timestamp
 
-{{% notice warning %}}
-his routine is under maintenance!
-{{% /notice %}}
+URL: https://mnemex.io/api/v1/unix_timestamp
+
+URL: https://mnemex.io/api/v1/unix_timestamp_ms
+
+## Result
+
+| name      | type    | description |
+| ----------| ------- | ----------- |
+| timestamp | integer | current timestamp |
 
 ## Examples
 
 ```bash
 curl https://mnemex.io/api/v1/timestamp
-```
-
-```bash
-curl https://mnemex.io/api/v1/unix_timestamp
 ```

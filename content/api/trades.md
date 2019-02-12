@@ -9,24 +9,20 @@ weight: 23
 
 URL: https://mnemex.io/api/v1/trades
 
-{{% notice warning %}}
-his routine is under maintenance!
-{{% /notice %}}
-
 ## Input
 
-| parameters | Default | Description |
+| parameters | default | description |
 | ---------- | ------- | ----------- |
 | exchange   | -       | the name of the exchange platform |
 | symbol     | -       | the name of the asset pair |
-| nrows      | 100     | number of rows |
-| last       | now     | last timestamp to retrieve data from |
+| limit      | 1000    | number of samples to retrieve |
+| since      | now     | last timestamp to retrieve the data from |
 
 ## Result
 
 | name  | type    | description           |
 | ----- | ------- | --------------------- |
-| unix  | integer | unix timestamp is ms  |
+| timestamp  | integer | unix timestamp is ms  |
 | price | float   | trade price           |
 | volume| float   | traded quantity       |
 | buy   | boolean | true if trade is a buy, false otherwise |
@@ -35,7 +31,7 @@ his routine is under maintenance!
 
 Request the last 20 trades for the binance exchange platform and the symbol BTC/USDT:
 
-```
+```bash
 curl https://mnemex.io/api/v1/trades?exchange=binance&symbol=BTC/USDT&nrows=20
 ```
 

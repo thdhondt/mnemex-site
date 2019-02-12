@@ -2,41 +2,38 @@
 title: "Statistics"
 menutitle: "Statistics"
 chapter: false
-weight: 25
+weight: 24
 ---
 
 ## Information
 
 URL: https://mnemex.io/api/v1/stats
 
-{{% notice warning %}}
-his routine is under maintenance!
-{{% /notice %}}
-
 ## Input
 
-| parameters | Default | Description |
+| parameters | default | description |
 | ---------- | ------- | ----------- |
 | exchange   | -       | the name of the exchange platform |
 | symbol     | -       | the name of the asset pair |
 | period     | 60      | resampling period in seconds |
-| nrows      | 100     | number of rows |
-| last       | now     | last timestamp to retrieve data from |
+| limit      | 1000    | number of samples to retrieve |
+| since      | now     | last timestamp to retrieve the data from |
 
 ## Result
 
-| name | type    | description |
-| ---- | ------- | ----------- |
-| unix | integer | unix timestamp in ms |
-| avg  | float   | average trade price |
-| std  | float   | standard deviation on the price|
-| vwap | float   | volume weighted average price |
+| name      | type    | description |
+| ----------| ------- | ----------- |
+| timestamp | integer | unix timestamp in ms |
+| avg       | float   | average trade price |
+| std       | float   | standard deviation on the price |
+| vwap      | float   | volume weighted average price |
+| qty       | float   | sum of the traded volume |
 
 ## Examples 
 
 Request the last 20 stats for the binance exchange platform and the symbol BTC/USDT:
 
-```
-curl https://mnemex.io/api/v1/stats?exchange=binance&symbol=BTC/USDT&period=300&nrows=20
+```bash
+curl https://mnemex.io/api/v1/stats?exchange=binance&symbol=BTC/USDT
 ```
 
