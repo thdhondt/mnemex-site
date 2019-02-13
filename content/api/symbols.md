@@ -9,10 +9,6 @@ weight: 22
 
 URL: https://mnemex.io/api/v1/symbols
 
-{{% notice warning %}}
-his routine is under maintenance!
-{{% /notice %}}
-
 ## Input
 
 | parameters | Default | Description |
@@ -23,10 +19,15 @@ his routine is under maintenance!
 
 | parameters | Default | Description |
 | ---------- | ------- | ----------- |
-| symbols    | string  | the name of the supported symbols |
+| symbol     | string  | the name of the asset pair |
+| base       | string  | the base currency |
+| quote      | string  | the quote currency |
+| symbolid   | string  | the exchange name of the asset pair |
+| baseid     | string  | the exchange base currency |
+| quoteid    | string  | the exchange quote currency |
 
 ## Examples
 
-```
+```bash
 curl https://mnemex.io/api/v1/symbols?exchange=binance
 ```
