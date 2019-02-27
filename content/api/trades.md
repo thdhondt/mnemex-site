@@ -15,7 +15,7 @@ URL: https://mnemex.io/api/v1/trades
 | ---------- | ------- | ----------- |
 | exchange   | -       | the name of the exchange platform |
 | symbol     | -       | the name of the asset pair |
-| last       | 1000    | the last number of samples to retrieve |
+| last       | 1000    | the last number of samples to etrieve |
 | since      | now     | last timestamp to retrieve the data from |
 
 ## Result
