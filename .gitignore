@@ -1,3 +1,5 @@
 # Discard public files.
 public/
 public/*
+notes/
+notes/*
