@@ -7,20 +7,20 @@ weight: 21
 
 ## Information
 
-URL: https://mnemex.io/api/v1/timestamp
+Timestamps are usefull if you plan to synchronise your computer
+with our servers. You can request the timestamps in three different ways.
+First, the classical or human readable timestamp. Its format is: YYYY-MM-DDThh:mm:ss. Second, the unix formatted timestamp is accessible. For more information please visit the following link. Finally, the millisecond unix timestamp. Any historical data returned by the API will have a millisecond unix timestamp. We chose that one for the sake of simplicity. 
 
-URL: https://mnemex.io/api/v1/unix_timestamp
+## Url
 
-URL: https://mnemex.io/api/v1/unix_timestamp_ms
+```url
+https://mnemex.io/api/v1/timestamp
+```
 
-## Result
+```url
+https://mnemex.io/api/v1/unix_timestamp
+```
 
-| name      | type    | description |
-| ----------| ------- | ----------- |
-| timestamp | integer | current timestamp |
-
-## Examples
-
-```bash
-curl https://mnemex.io/api/v1/timestamp
+```url
+https://mnemex.io/api/v1/unix_timestamp_ms
 ```

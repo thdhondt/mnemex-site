@@ -7,7 +7,17 @@ weight: 22
 
 ## Information
 
-URL: https://mnemex.io/api/v1/symbols
+This method makes it possible to retrieve the symbols that are supported by the api. Any symbol is an asset pair with a base and quote currency. Consider for instance the symbol or asset pair ETH/BTC. The quote currency is ETH and the base currency is BTC. 
+
+Note that this method returns also the symbol id, base id and quote id. 
+CCXT has indeed standardize the asset pairs name, and we follow this standard. 
+However, you might be interested to have the base and quote currency as they are list on their exchange. 
+
+## Url
+
+```url
+https://mnemex.io/api/v1/symbols
+```
 
 ## Input
 
