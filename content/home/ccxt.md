@@ -1,11 +1,11 @@
 ---
-title: "Contact"
-menuTitle: "Contact"
+title: "CCXT"
+menuTitle: "CCXT"
 chapter: false
 weight: 11
 ---
 
-We plan to open soon a slack channel and/or a telegram channel.
+## CCXT
 
-Meanwhile feel free to contact us at mnemex@protonmail.com in case you have any questions.
+The CCXT library is used to connect and trade with cryptocurrency / altcoin exchanges and payment processing services worldwide. It provides quick access to market data for storage, analysis, visualization, indicator development, algorithmic trading, strategy backtesting, bot programming, webshop integration and related software engineering.
 
