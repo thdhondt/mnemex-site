@@ -27,8 +27,6 @@ Among them you will find,
 - [coinapi](https://coinapi.io)
 - [cryptocompare](https://www.cryptocompare.com)
 
-As stated above our goal is not to stick only to market data.
-
 ## How much does it cost?
 
 Mnemex is currently completely free of use and does not require any identifier. You're welcome!
