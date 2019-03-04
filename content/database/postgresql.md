@@ -2,6 +2,7 @@
 title: "Postgresql"
 menutitle: "Postgresql"
 chapter: false
+draft: true
 weight: 31
 ---
 

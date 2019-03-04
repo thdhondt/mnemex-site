@@ -13,7 +13,7 @@ Mnemex is an early stage open source project. Our goal is to gather data scienti
 
 # FAQ
 
-See links for more details. Each chapter heading in the docs has its own more specific FAQ
+*See links for more details. Each chapter heading in the docs has its own more specific FAQ*
 
 ## What is your goal?
 
