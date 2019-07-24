@@ -9,7 +9,7 @@ weight: 0
 
 Welcome and Congratulations, you have just found Mnemex!
 
-Mnemex is an early stage open source project. Our goal is to gather data scientists around data of qaultiy, free, and easily accessible. We want to provide a frictionless experience with financial data to enhance innovation and open discussions. 
+Mnemex is an early stage open source project. Our goal is to gather data scientists around data of qualtiy, free, and easily accessible. We want to provide a frictionless experience with financial data to enhance innovation and open discussions. 
 
 # FAQ
 
